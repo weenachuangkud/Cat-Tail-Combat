@@ -7,3 +7,7 @@ Wanted to create an FPS game? **Cat Tail Combat** Already does the hard work for
 - A lot of weapon settings you could imagine
 - Performance, Using **Parallel scripting** and [Packet](https://devforum.roblox.com/t/packet-networking-library/3573907) to optimize **RemoteEvent** or even [FastCast2](https://github.com/weenachuangkud/FastCast2) to being able to handle a lot of projectiles
 - **It's free**
+
+> [!NOTE]
+> - This FPS Combat System is **solo-developed**, expect the updates to be **slow**
+> - This FPS Combat System hasn't **released** or **finished** yet
