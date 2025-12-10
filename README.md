@@ -1,4 +1,4 @@
-# Cat-Tail-Comabt
+# Cat-Tail-Combat
 An advanced FPS Combat System powered by multiple libraries and frameworks.
 
 Wanted to create an FPS game? **Cat Tail Combat** Already does the hard work for you
