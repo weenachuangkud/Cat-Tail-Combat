@@ -1,2 +1,9 @@
 # Cat-Tail-Comabt
 An advanced FPS Combat System powered by multiple libraries and frameworks.
+
+Wanted to create an FPS game? **Cat Tail Combat** Already does the hard work for you
+
+# What Cat Tail Combat offers?
+- A lot of weapon settings you could imagine
+- Performance, Using **Parallel scripting** and [Packet](https://devforum.roblox.com/t/packet-networking-library/3573907) to optimize **RemoteEvent** or even [FastCast2](https://github.com/weenachuangkud/FastCast2) to being able to handle a lot of projectiles
+- **It's free**
