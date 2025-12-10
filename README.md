@@ -11,3 +11,12 @@ Wanted to create an FPS game? **Cat Tail Combat** Already does the hard work for
 > [!NOTE]
 > - This FPS Combat System is **solo-developed**, expect the updates to be **slow**
 > - This FPS Combat System hasn't **released** or **finished** yet
+
+# Contributors
+- Hakami
+- Mr_Black
+- RUOZX2
+- aof255f
+- VSG Discord
+- Klong 6 Discord (Wanted to be)
+- Under the sea Discord
