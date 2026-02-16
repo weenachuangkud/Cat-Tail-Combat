@@ -1,6 +1,6 @@
 # Cat-Tail-Combat
-An advanced FPS Combat System powered by multiple libraries and frameworks.
-
+ A high-performance, feature-rich FPS framework with realistic ballistics,
+   advanced recoil systems, and extensive weapon customization
 Wanted to create an FPS game? **Cat Tail Combat** Already does the hard work for you
 
 # What Cat Tail Combat offers?
