@@ -2,8 +2,9 @@
  A high-performance, feature-rich FPS framework with realistic ballistics,
    advanced recoil systems, and extensive weapon customization
 
-
 Wanted to create an FPS game? **Cat Tail Combat** Already does the hard work for you
+
+---
 
 # What Cat Tail Combat offers?
 - A lot of weapon settings you could imagine
@@ -27,14 +28,18 @@ Contributions welcome! Please read [CONTRIBUTING.md](link) first.
 > - This FPS Combat System is **solo-developed**, expect the updates to be **slow**
 > - This FPS Combat System hasn't **released** or **finished** yet
 
-# 
+---
 
-# Contributors
-- Mawin_CK
+# Acknowledgments
+Special thanks to those who helped shape Cat Tail Combat:
+
+**Testers & Feedback:**
 - Hakami
 - Mr_Black
 - RUOZX2
 - aof255f
-- VSG Discord
-- Klong 6 Discord (Wanted to be)
+
+**Community Support:**
+- VSG Discord community
+- Klong 6 Discord
 - Under the sea Discord
