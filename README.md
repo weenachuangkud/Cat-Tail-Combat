@@ -43,3 +43,4 @@ Special thanks to those who helped shape Cat Tail Combat:
 - VSG Discord community
 - Klong 6 Discord
 - Under the sea Discord
+- Suphi kaner Discord
