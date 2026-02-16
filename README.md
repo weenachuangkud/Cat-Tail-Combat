@@ -19,7 +19,7 @@ Contributions welcome! Please read [CONTRIBUTING.md](link) first.
 
 **Areas I need help:**
 - Documentation writing
-- Example weapon configs
+- Refactoring
 - Bug reports & testing
 
 ---
